@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+
+# Xcode User Data and Workspace settings
+*.xcuserdatad
+*.xcuserdata
+*.xcscmblueprint
+*.xcworkspace
+
+# Xcode Derived Data
+DerivedData/
+build/
+
+# SwiftPM dependencies and Xcode playgrounds
+/.swiftpm/
+/Packages/
+/*.xcodeproj/project.xcworkspace/
+/.playground/
+
+# Fastlane and Bundler
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+.bundle
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+
+# SPM artifacts
+.build/
+
+# Private/secret files (if any)
+Config.plist
+Secrets/
+
+# Cursor IDE user files
+.cursor/
