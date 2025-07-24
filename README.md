@@ -111,20 +111,6 @@ The app uses the [Fake Store API](https://api.escuelajs.co/api/v1) for product d
 - Product IDs: `com.fakeshop.product1`, `com.fakeshop.product2`
 - Purchase state persisted in UserDefaults
 
-## 📱 Screenshots
-
-### Product List
-- Grid layout with product cards
-- Category filtering
-- Search functionality
-- Pull-to-refresh
-
-### Product Details
-- Image carousel
-- Product information
-- Purchase button
-- Customer reviews
-
 ## 🎯 Key Features Implementation
 
 ### Product Listing
